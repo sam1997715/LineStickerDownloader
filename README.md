@@ -15,7 +15,8 @@
    1. 開啟電腦的指令視窗 (Windows:按下<kbd>Win</kbd>+<kbd>R</kbd>，在開啟欄輸入 <code>cmd</code>後按確定)
    2. 變換當前路徑至下載下來的資料夾 <code>cd %USERPROFILE%\Downloads\LineStickerDownloader</code>
       (如果不是下載在下載需更換對應路徑)
-   3. 執行安裝指令 <code>pip install -r requirements.txt</code>
+   3. 執行安裝指令 
+      <pre><code>pip install -r requirements.txt</code></pre>
 
 2. 對 <code>LineSticker.py</code> 按下右鍵，並選擇 <u>Edit with IDLE 3.x</u>
 3. 按下鍵盤 <kbd>F5</kbd> 即開始運行下載器
